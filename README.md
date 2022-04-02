@@ -19,6 +19,6 @@ To group the cryptocurrencies, I decided on a clustering algorithm and visualize
 
 
 ###3. hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply"
-![This is an image](https://github.com/ruimin1231/Unsupervised-Machine-Learning-to-Cryptocurrencies/blob/main/challenge/images/3D-Scatter_with_the_PCA_data.png)
+![This is an image](https://github.com/ruimin1231/Unsupervised-Machine-Learning-to-Cryptocurrencies/blob/main/challenge/images/hvplot_scatter_plot.png)
 
 
