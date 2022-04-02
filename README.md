@@ -1,22 +1,18 @@
-# **Written Report on the Credit Risk Evaluation - Supervised Machine Learning**
+# **Unsupervised Machine Learning**
 
 ---
 
 ## **Overview**
 
-The purpose of this project is to analyze and predict the credit card risk from the LendingClub through examing the algorithms of supervised machine learning. This project will oversample the data using *Naive RandomOverSampler* and *SMOTE Oversampling* algorithms, and undersample the data using the *ClusterCentroids* algorithm, then it will generate a combinatorial approach of over-and undersampling using the *SMOTEEN(Combination Sampling)* algorithm. This analysis is included in the *Challenge_Resources* folder.
+The project aims to create an analysis for the clients who are preparing to get into the cryptocurrency market. It includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+To group the cryptocurrencies, I decided on a clustering algorithm and visualize the findings with the clients.
 
-creating an analysis for your clients who are preparing to get into the cryptocurrency market.
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. 
-create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
-To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.
-
-## **Data Source**
-
-The source of data is obtained from the LendingClub, a peer-to-peer lending services company. This data consists of 115675 rows and 86 columns with the customers' loan status.
 
 
 ## **Results**
+# Create an elbow curve to find the best value for K.
+# Creating a 3D-Scatter with the PCA data and the clusters
+# Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".
 
 
 ###**1. Naive Random Oversampling**
